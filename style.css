@@ -1,0 +1,23 @@
+table{
+    background: #F5F1F8 ;
+padding: 20px;
+color: #1C2E45;
+border-radius: 20px;
+}
+ tbody td{
+    background:#E2F1FB;
+} 
+td{
+padding: 15px;
+width: 80px;
+border: 1px solid #98E6D2;
+}
+
+caption{ 
+margin-bottom:20px;
+text-align: center;
+color: #FFCE00;
+}
+thead{
+    background: #E6F3FA;
+}
